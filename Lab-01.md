@@ -1,21 +1,45 @@
-# Lab 01: Enterprise Infrastructure Audit
-**Date:** January 2026  
-**Status:** Completed  
+# Lab 01: [To Be Assigned]
+
+**Course:** IT-520  
+**Date:** TBD  
+**Status:** Pending  
+
+
 
 ## 🎯 Objective
-To analyze the 2021 Facebook outage from a systems design perspective and identify the specific failure points in their BGP (Border Gateway Protocol) configuration.
+This document will be used to professionally document **Lab 01** once it is assigned by the instructor.  
+The lab will be recorded following the required GitHub documentation standards, with emphasis on technical accuracy, troubleshooting rigor, and verifiable proof of execution.
+
+
 
 ## 🛠️ Tools Used
-* [Wireshark](https://www.wireshark.org/) (Traffic Analysis)
-* [Draw.io](https://www.drawio.com/) (Network Topology Mapping)
-* Linux Terminal
+* To be determined based on lab requirements
+
+
 
 ## 🔍 Key Findings
-1. **Root Cause:** A routine maintenance command unintentionally disconnected Facebook's data centers from the wider internet.
-2. **Cascading Failure:** Because the network was down, internal tools (like badge readers) also failed, delaying physical access to the servers.
+* Pending lab execution
+
+
 
 ## 💡 Lessons Learned
-This lab highlighted the danger of **Single Points of Failure**. In the future, I would recommend out-of-band management for critical infrastructure to ensure access during a primary network collapse.
+This section will be completed after the lab is executed and analyzed.  
+It will reflect how the lab’s outcomes apply to real-world enterprise security environments.
+
+
 
 ## 📸 Proof of Work
-![Network Diagram Placeholder](link-to-your-image-here.png)
+All screenshots, diagrams, logs, and other supporting evidence will be stored in a dedicated assets directory and linked here after lab completion.
+
+
+
+## 🧪 Diagnostics
+This section will document:
+- Errors encountered during execution
+- Root cause analysis
+- Corrective actions taken to resolve issues
+
+
+## 📌 Notes
+This placeholder file confirms readiness to document Lab 01 in accordance with the professional standards outlined in the assignment instructions.
+
