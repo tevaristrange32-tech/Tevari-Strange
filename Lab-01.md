@@ -1,6 +1,6 @@
-# Lab 01: [To Be Assigned]
+# Lab 01: [Under Review]
 
-**Course:** IT-520  
+**Course:** IT-335  
 **Date:** TBD  
 **Status:** Pending  
 
